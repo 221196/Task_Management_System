@@ -1,10 +1,10 @@
-package com.task.employee_management_system;
+package com.task.task_management_system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeManagementSystemApplicationTests {
+class TaskManagementSystemApplicationTests {
 
     @Test
     void contextLoads() {
